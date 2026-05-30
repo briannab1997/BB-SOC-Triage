@@ -1,0 +1,18 @@
+{
+  "name": "bb-soc-triage",
+  "version": "1.0.0",
+  "description": "A mock cyber defense alert triage dashboard for SOC workflows.",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "test": "node tests/triageService.test.js"
+  },
+  "keywords": [
+    "cybersecurity",
+    "soc",
+    "incident-response",
+    "javascript",
+    "portfolio"
+  ],
+  "author": "Brianna Brockington",
+  "license": "MIT"
+}
