@@ -25,7 +25,7 @@ Live demo: https://briannab1997.github.io/BB-SOC-Triage/
 
 ## Why This Project
 
-The DoW Cyber Apprenticeship emphasizes security operations, network defense, ethical hacking, cyber threat analysis, mentorship, and hands-on learning. BB SOC Triage is not a real security tool, but it demonstrates the thinking I want to bring into an entry-level cyber role:
+BB SOC Triage is not a real security tool, but it demonstrates practical security operations thinking through a focused, entry-level-friendly workflow:
 
 - triaging information quickly
 - prioritizing risk
